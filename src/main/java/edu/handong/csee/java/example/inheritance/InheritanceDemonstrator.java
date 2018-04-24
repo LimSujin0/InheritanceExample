@@ -1,6 +1,6 @@
 package edu.handong.csee.java.example.inheritance;
 
-public class InheritanceDemonstrator {
+public class InheritanceDemonstrator{
 
 	public static void main(String[] args) {
 		 Student s = new Student();
